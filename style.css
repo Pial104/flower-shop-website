@@ -296,6 +296,20 @@ main section{
 }
 
 
+.footer-bottom{
+    background-color: black;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    color: #E55473;
+    
+}
+
+.designer{
+    color: white;
+    cursor: pointer;
+}
+
 
 
 
